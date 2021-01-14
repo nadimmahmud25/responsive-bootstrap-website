@@ -1,0 +1,17 @@
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.name-highlight1{
+    color:tomato;
+    font: 3em large;
+   }
+   .name-highlight2{
+    color:rebeccapurple;
+    font: 4em large;
+   }
